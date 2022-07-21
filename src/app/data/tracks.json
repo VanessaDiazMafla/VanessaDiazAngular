@@ -1,0 +1,43 @@
+
+{
+    "data":[{
+
+        "id":1,
+        "name":"Getting Over",
+        "albun": "Master of Puppets",
+        "cover": "https://jenesaispop.com/page/42/?s=metallica",
+
+        "artist": {
+            "name": "David Guetta",
+            "nickname": "David Guetta",
+            "nationality": "FR"
+        },
+
+        "duration":{
+            "start": 0,
+            "end":333
+        },
+
+        "url":"http://localhost:3000/track.mp3",
+
+        {
+            "id":2,
+            "name":"for whom the bell tolls",
+            "album":"Ride the Lightning",
+            "cover":"https://jenesaispop.com/page/42/?s=metallica",
+            "artist":{
+                "name":"James Hetfield",
+                "nickname":"James Hetfield",
+                "natiotality":"EEUU"
+            },
+            "duration":{
+                "start":0,
+                "end":333
+            },
+            "url":"htpps://Localhost:300/track.mp3"
+        }
+
+    }]
+
+
+}
